@@ -99,7 +99,7 @@
   <li>Test if the semantics of your page is approved by the site CodeSniffer</li>
 </ol>
 
-### BÔNUS
+### BONUS
 <ol>
   <li>Add a table to your page</li>
   <li>Use the Box model
