@@ -44,7 +44,7 @@
   </li>
 </ol>
 
-### BÔNUS
+### Bônus
 <ol start="12">
   <li>Adicione uma tabela à página</li>
   <li>Utilize o Box model
@@ -99,7 +99,7 @@
   <li>Test if the semantics of your page is approved by the site CodeSniffer</li>
 </ol>
 
-### BONUS
+### Bonus
 <ol start="12">
   <li>Add a table to your page</li>
   <li>Use the Box model
