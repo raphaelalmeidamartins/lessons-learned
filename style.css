@@ -1,0 +1,218 @@
+/* Fontes importada */
+
+/* font-family: 'Nunito', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+/* font-family: 'Sarala', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Sarala:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Nunito, sans-serif;
+}
+
+
+#titulo {
+  color: rgb(222, 227, 237);
+  font-family: Sarala, sans-serif;
+  font-size: 40px;
+  padding-top: 20px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(29, 29, 31);
+  opacity: 0.95;
+  z-index: 1;
+}
+
+header ul li {
+  display: inline-block;
+  width: 150px;
+  padding: 20px;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  background-color: rgb(29, 29, 31);
+  padding: 40px;
+  color: rgb(222, 227, 237);
+  opacity: 0.95;
+}
+
+footer a {
+  text-decoration: none;
+  color: rgb(221, 83, 221);
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(222, 227, 237);
+}
+
+nav ul li a:hover {
+  color: white;
+}
+
+.container {
+  display: block;
+  width: 900px;
+  margin: 0 auto;
+}
+
+main p {
+  line-height: 1.5em;
+}
+
+.perfil {
+  width: 900px;
+  margin: 0 auto;
+  padding-bottom: 0;
+  margin-bottom: 40px;
+}
+
+#minha_foto {
+  margin-top: 147px;
+  display: inline-block;
+  width: 500px;
+  filter: grayscale(100%);
+  z-index: 0;
+}
+
+.nome {
+  display: inline-block;
+  position: absolute;
+  top: 397px;
+  margin-left: 50px;
+}
+
+.nome img {
+  width: 40px;
+  padding-top: 20px;
+  padding-right: 10px;
+}
+
+.nome img:hover {
+  filter: brightness(150%);
+}
+
+.behance {
+  filter: invert();
+}
+
+table {
+  color: white;
+  background-color: rgb(193, 20, 209);
+  padding: 20px;
+}
+
+table caption {
+  font-family: Sarala, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 50px;
+  margin-top: 40px;
+  padding-top: 20px;
+  color: rgb(193, 20, 209);
+}
+
+table tr th {
+  font-size: 20px;
+  font-family: Sarala, sans-serif;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+table tr td {
+  padding: 20px;
+  vertical-align: text-top;
+}
+
+table tr td p {
+  line-height: 30px;
+}
+
+.nome p {
+  font-family: Sarala, sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(99, 12, 99);
+}
+
+.lista-esquerda {
+  float: left;
+  height: 380px;
+}
+
+.lista-direita {
+  padding: 30px;
+  width: 42%;
+  float: right;
+  height: 380px;
+}
+
+.listas-background {
+  background-color: white;
+  padding: 30px;
+  width: 42%;
+  list-style-position: inside;
+}
+
+.listas li {
+  line-height: 30px;
+}
+
+.lado-esquerdo {
+  background-color: rgb(5, 128, 150);
+  color: white;
+  padding: 30px;
+  width: 60%;
+  float: left;
+  clear: both;
+  margin-bottom: 40px;
+}
+
+.lado-esquerdo p {
+  line-height: 30px;
+}
+
+.lado-direito {
+  padding: 30px;
+  width: 25%;
+  float: right;
+}
+
+.lado-direito p {
+  line-height: 30px;
+  font-style: italic;
+  color: rgb(5, 80, 94);
+}
+
+h2 {
+  font-family: Sarala, sans-serif;
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+.container_artigo {
+  margin-top: 40px;
+}
+
+.sombra {
+  filter: drop-shadow(0 0 20px rgb(141, 141, 141));
+  border-radius: 20px;
+}
