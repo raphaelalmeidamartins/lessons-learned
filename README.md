@@ -62,7 +62,7 @@
 <h2 id="en">:us: English</h2>
 <p>HTML & CSS project develop by me (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) in the end of the Unit 3 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 100% of the mandatory and optional requirements met, and following all the Linter rules of best practices and code standardization.</p>
 <p>We had to develop a static web page using the knowledge acquired in the first three units of the course. The page needed to have a list of the lessons learned during this period, a list of future contents I am still going to learn, and a brief article describing my experience.</p>
-<p><a href="https://raphaelalmeidamartins.github.io/project-lessons-learned/" target="_blank">Clique here</a> to check out the final version of the project on your browser.</p>
+<p><a href="https://raphaelalmeidamartins.github.io/project-lessons-learned/" target="_blank">Click here</a> to check out the final version of the project on your browser.</p>
 
 ### Requirements
 <ol>
