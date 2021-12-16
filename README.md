@@ -5,7 +5,8 @@
 <p id="pt">Projeto de HTML & CSS desenvolvido por mim (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) ao final do Bloco 3 do Módulo 1 do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. Obtive aprovação com 100% dos requisitos obrigatórios e opcionais atingidos, e seguindo as todas as regras de padronização do código e boas práticas do Linter.</p>
 <p>O projeto consistiu no desenvolvimento de uma página web estática utilizando os conhecimentos obtidos nos três primeiros blocos do curso. A página precisava conter uma lista das lições aprendidas durante esse período, uma lista contendo futuros conteúdos e um pequeno artigo descrevendo minha experiência.</p>
 <p><a href="https://raphaelalmeidamartins.github.io/project-lessons-learned/" target="_blank">Clique aqui</a> para conferir o resultado final do projeto no navegador.</p>
-<h3>Requisitos</h3>
+
+### Requisitos
 <ol>
   <li>Adicione uma cor de fundo específica para a página
   <p>Possuir cor de fundo: rgb(253, 251, 251)</p>
@@ -41,7 +42,8 @@
   <p>Teste a semântica da sua página está aprovada pelo site CodeSniffer</p>
   </li>
 </ol>
-<h3>BÔNUS</h3>
+
+### BÔNUS
 <ol>
   <li>Adicione uma tabela à página</li>
   <li>Utilize o Box model
