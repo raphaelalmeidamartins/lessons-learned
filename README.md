@@ -45,7 +45,7 @@
 </ol>
 
 ### BÔNUS
-<ol>
+<ol start="12">
   <li>Adicione uma tabela à página</li>
   <li>Utilize o Box model
   <p>Altere margin, padding e border dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes.</p>
@@ -100,7 +100,7 @@
 </ol>
 
 ### BONUS
-<ol>
+<ol start="12">
   <li>Add a table to your page</li>
   <li>Use the Box model
   <p>Change the margin, the padding and the border of the elements to see how these properties can influence and improve the layout.</p>
