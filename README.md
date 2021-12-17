@@ -1,6 +1,6 @@
 <small>(for the English version, <a href="#en">click here</a>)</small>
 
-![Prévia da página - Preview of the page](./images/lessons-learned.gif)
+![Prévia da página - Preview of the page](./lessons-learned.gif)
 
 # Lessons Learned
 <h2>:brazil: Português</h2>
