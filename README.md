@@ -4,7 +4,7 @@
 
 # Lessons Learned
 <h2>:brazil: Português</h2>
-<p id="pt">Projeto de HTML & CSS desenvolvido por mim (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) ao final do Bloco 3 do Módulo 1 do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. Obtive aprovação com 100% dos requisitos obrigatórios e opcionais atingidos, e seguindo as todas as regras de padronização do código e boas práticas do Linter.</p>
+<p id="pt">Projeto de HTML & CSS desenvolvido por mim (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) ao final do Bloco 3 do Módulo 1 do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 <p>O projeto consistiu no desenvolvimento de uma página web estática utilizando os conhecimentos obtidos nos três primeiros blocos do curso. A página precisava conter uma lista das lições aprendidas durante esse período, uma lista contendo futuros conteúdos e um pequeno artigo descrevendo minha experiência.</p>
 <p><a href="https://raphaelalmeidamartins.github.io/project-lessons-learned/" target="_blank">Clique aqui</a> para conferir o resultado do projeto no navegador.</p>
 
@@ -62,8 +62,8 @@
 <br>
 
 <h2 id="en">:us: English</h2>
-<p>HTML & CSS project develop by me (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) in the end of the Unit 3 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 100% of the mandatory and optional requirements met, and following all the Linter rules of best practices and code standardization.</p>
-<p>We had to develop a static web page using the knowledge acquired in the first three units of the course. The page needed to have a list of the lessons learned during this period, a list of future contents I am still going to learn, and a brief article describing my experience.</p>
+<p>Project of HTML, CSS, and JavaScript developed by me (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) at the end of the Unit 3 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 100% of the mandatory and optional requirements met.</p>
+<p>We had to develop a static web page using the knowledge acquired in the first three units of the course. The page should contain a list of the lessons learned during this period and a list of contents we are still going to study. Finally, we also needed to include a brief article describing our experience with the course so far.</p>
 <p><a href="https://raphaelalmeidamartins.github.io/project-lessons-learned/" target="_blank">Click here</a> to check out the final version of the project on your browser.</p>
 
 ![My grade of the project - Minha nota no projeto](./nota.png)
@@ -74,16 +74,16 @@
   <p>The background color must be: rgb(253, 251, 251)</p>
   </li>
   <li>Add a header with a title
-  <p>The header needs to have "cabecalho" as the ID, and needs to be fixed on the top of the page with 0 in the top property. The title needs to be a h1 element, to be inside the header and to have "titulo" as the ID.</p>
+  <p>The header needs to have "cabecalho" as the ID, and needs to be fixed on the top of the page with 0 in the top property. The title needs to be a h1 element, to be inside the header, and to have "titulo" as the ID.</p>
   </li>
   <li>Add a photo to your page
   <p>The photo needs to have "minha_foto" and the ID, and to be an img element.</p>
   </li>
   <li>Add a list of lessons learned to your page
-  <p>It needs to have 10 items, to be numbered and to have "licoes_aprendidas" as the ID.</p>
+  <p>It needs to have 10 items, to be numbered, and to have "licoes_aprendidas" as the ID.</p>
   </li>
   <li>Create another list with lessons you still are going to learn
-  <p>It needs to have 10 items, to not be numbered and to have "licoes_a_aprender" as the ID.</p>
+  <p>It needs to have 10 items, to not be numbered, and to have "licoes_a_aprender" as the ID.</p>
   </li>
   <li>Add a footer to your page
   <p>It needs to use the tag footer and to have "rodape" as the ID.</p>
@@ -107,7 +107,7 @@
 <ol start="12">
   <li>Add a table to your page</li>
   <li>Use the Box model
-  <p>Change the margin, the padding and the border of the elements to see how these properties can influence and improve the layout.</p>
+  <p>Change the margin, the padding, and the border of the elements to see how these properties can influence and improve the layout.</p>
   </li>
   <li>Change font properties
   <p>Change font-family, font-style, font-size, color, and line-height.</p>
