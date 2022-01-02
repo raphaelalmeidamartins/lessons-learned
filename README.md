@@ -62,7 +62,7 @@
 <br>
 
 <h2 id="en">:us: English</h2>
-<p>Project of HTML, CSS, and JavaScript developed by me (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) at the end of the Unit 3 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 100% of the mandatory and optional requirements met.</p>
+<p>HTML & CSS project developed by me (<a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external">Raphael Martins</a>) at the end of the Unit 3 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 100% of the mandatory and optional requirements met.</p>
 <p>We had to develop a static web page using the knowledge acquired in the first three units of the course. The page should contain a list of the lessons learned during this period and a list of contents we are still going to study. Finally, we also needed to include a brief article describing our experience with the course so far.</p>
 <p><a href="https://raphaelalmeidamartins.github.io/project-lessons-learned/" target="_blank">Click here</a> to check out the final version of the project on your browser.</p>
 
