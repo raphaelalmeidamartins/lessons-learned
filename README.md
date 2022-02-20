@@ -4,7 +4,7 @@
 
 ## :page_with_curl: About
 
-HTML & CSS project developed by me ([Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/)) at the end of the Unit 3 Module 1 of the [Trybe](https://www.betrybe.com)'s Web Development course. I was approved with 100% of the mandatory and optional requirements met.
+HTML & CSS project developed by me ([Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/)) at the end of Unit 3 ([Principles of Web Development Module](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web)) of the [Trybe](https://www.betrybe.com)'s Web Development course. I was approved with 100% of the mandatory and optional requirements met.
 
 We had to develop a static web page using the knowledge acquired in the first three units of the course. The page should contain a list of the lessons learned during this period and a list of contents we are still going to study. Finally, we also needed to include a brief article describing our experience with the course so far.
 
