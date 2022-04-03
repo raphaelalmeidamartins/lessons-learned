@@ -10,11 +10,15 @@ We had to develop a static web page using the knowledge acquired in the first th
 
 [Click here](https://raphaelalmeidamartins.github.io/lessons-learned/) to check out the final version of the project on your browser.
 
+## :man_technologist: Developed Skills
+
+* Develop a static HTML page by using semanthic tags
+* Design a layout with CSS
+
 ## :hammer_and_wrench: Tools
 
 * HTML5
 * CSS3
-* JavaScript ES6+
 
 ## :trophy: Grade
 
